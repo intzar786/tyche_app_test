@@ -50,7 +50,7 @@
         </tr>
       </table>
 
-      <a href="{{ route('payment') }}" class="btn btn-success">Pay $100 from Paypal</a>
+      <a href="{{ route('payment') }}" class="btn btn-success">Pay $10 from Paypal</a>
 
     </div>
   </div>
